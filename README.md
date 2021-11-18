@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">In Love with Back-End Web Development ! and learn new lenguajes 😄</h3>
 - 📄 Know about my experiences [Cobol programmer](Cobol programmer)
 
-![image](https://c.tenor.com/WSnMZt-dXKUAAAAd/programming-programando.gif)
+![programming-programando](https://user-images.githubusercontent.com/48575507/142494962-0386a7b0-4330-41ed-80c2-d9f046493b7b.gif)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
