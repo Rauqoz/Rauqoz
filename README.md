@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [Cobol programmer](Cobol programmer)
 
 <p align="center">
-  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/KpJ47gKe6b7v7xQyWj/video" width="480"></iframe></div>
+<img src="https://i.gifer.com/O4Bp.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
