@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Raul Quiñonez 😄 Student Systems Engineering - USAC </h1>
 <h3 align="center">In Love with Back-End Web Development ! and learn new lenguajes 😄</h3>
 - 📄 Know about my experiences [Cobol programmer](Cobol programmer)
+</br>
 
-![programming-programando](https://user-images.githubusercontent.com/48575507/142494962-0386a7b0-4330-41ed-80c2-d9f046493b7b.gif)
-
+![giphy](https://user-images.githubusercontent.com/48575507/142495234-bf7af314-2b9d-49d4-9cc2-76cc2b9c4c51.gif)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
