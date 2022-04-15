@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <h3 align="center">In Love with Back-End Web Development ! and learn new lenguajes 😄</h3>
 - 📄 Know about my experiences, I worked as a cobol programmer 🔭 with Jcl, Batch, Cics and Files Vsam 😄
 
+<h3 align="center"><a href="https://gist.github.com/Rauqoz" target="_blank">My Gist's</a></h3>
+
 #
 ![giphy](https://user-images.githubusercontent.com/48575507/142495234-bf7af314-2b9d-49d4-9cc2-76cc2b9c4c51.gif)
 
