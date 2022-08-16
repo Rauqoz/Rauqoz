@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">👋, I'm Raul Quiñonez 😄 Student Systems Engineering - USAC </h1>
 <h3 align="center">In Love with Back-End Web Development ! and learn new lenguajes 😄</h3>
 - 📄 Know about my experiences, I worked as a cobol programmer 🔭 with Jcl, Batch, Cics and Files Vsam 😄
-- ⚡ I'm currently a Full Stack software developer at Telus International 😄, working with React, personalized experience, testing and more.
+- - ⚡ I'm currently a Full Stack software developer at Telus International 😄, working with React, personalized experience, testing and more.
 
 <h3 align="center"><a href="https://gist.github.com/Rauqoz" target="_blank">My Gist's</a></h3>
 
