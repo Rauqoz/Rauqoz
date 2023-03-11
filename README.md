@@ -12,16 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋, I'm Raul Quiñonez 😄 Student Systems Engineering - USAC </h1>
-<h3 align="center">In Love with Back-End Web Development ! and learn new lenguajes 😄</h3>
-- 📄 Know about my experiences, I worked as a cobol programmer 🔭 with Jcl, Batch, Cics and Files Vsam 😄
-<br/>
-- ⚡ I'm currently a Full Stack software developer at Telus International 😄, working with React, personalized experience, testing and more.
+<h1 align="center">👋, I'm Raul Quiñonez 😄 Student Systems Engineering </h1>
+<h3 align="center">In Love the Web Development! and learn new Tools 😄</h3>
+<hr>
+
+- 📄 I worked as a cobol programmer 🔭 with Jcl, Batch, Cics and Files Vsam 😄
+
+- ⚡ I'm currently a Full Stack software developer at Telus International 😄, working Adobe Target A/B and XT Test's, Contentful content, Dynatrace, APIs Rest, Testing, GraphQL and Apps Scripts.
+<hr>
+Little Personal Template - Feel free to add content:
+
+Backend - https://github.com/Rauqoz/template-backend-nodejs-rauqoz
 
 <h3 align="center"><a href="https://gist.github.com/Rauqoz" target="_blank">My Gist's</a></h3>
 
 #
 ![giphy](https://user-images.githubusercontent.com/48575507/142495234-bf7af314-2b9d-49d4-9cc2-76cc2b9c4c51.gif)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauqoz&show_icons=true&locale=en&layout=compact" alt="rauqoz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rauqoz&" alt="rauqoz" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -29,8 +41,6 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img class='icono' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -47,11 +57,7 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauqoz&show_icons=true&locale=en&layout=compact" alt="rauqoz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rauqoz&show_icons=true&locale=en" alt="rauqoz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rauqoz&" alt="rauqoz" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
