@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋, I'm Raul Quiñonez 😄 Student Systems Engineering </h1>
-<h3 align="center">In Love the Web Development! and learn new Tools 😄</h3>
-<hr>
+# 👋, I'm Raul Quiñonez 😄 Student Systems Engineering
+# In Love the Web Development! and learn new Tools 😄
 
 - 📄 I worked as a cobol programmer 🔭 with Jcl, Batch, Cics and Files Vsam 😄
 
@@ -59,7 +58,7 @@ Backend - https://github.com/Rauqoz/template-backend-nodejs-rauqoz
 
 
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/raul-quiñonez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul-quiñonez" height="30" width="40" /></a>
 <a href="https://fb.com/raul4martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raul4martinez" height="30" width="40" /></a>
